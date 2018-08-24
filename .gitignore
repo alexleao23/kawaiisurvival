@@ -1,0 +1,22 @@
+##########################
+# Unreal Generated Files #
+##########################
+Build
+Binaries
+Intermediate
+DerivedDataCache
+Saved
+Content/Geometry/
+Content/Mannequin/
+Content/ParagonMinions/
+Content/ParagonShinbi/
+Content/StarterContent/
+Content/ThirdPerson/
+Content/ThirdPersonBP/Maps/
+Content/ThirdPersonBP/ThirdPersonOverview.uasset
+
+#################################
+# Visual Studio Generated Files #
+#################################
+*.VC.*
+.vs/
